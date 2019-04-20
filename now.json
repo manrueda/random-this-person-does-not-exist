@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "name": "fake-face.manrueda.dev",
+  "public": true,
+  "alias": [
+    "fake-face-manrueda-dev",
+    "fake-face.manrueda.dev"
+  ],
+  "builds": [
+     { "src": "*.html", "use": "@now/static" }
+ ]
+}
